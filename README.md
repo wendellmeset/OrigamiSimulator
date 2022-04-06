@@ -1,6 +1,6 @@
 # OrigamiSimulator
 
-Live demo at <a href="https://origamisimulator.org/">origamisimulator.org</a><br/>
+Live demo at <a href="https://wendellmeset.github.io/OrigamiSimulator/">Origami Simulator Link</a><br/>
 
 <img style="width: 100%; max-width:500px" src="assets/doc/crane.gif" />
 
